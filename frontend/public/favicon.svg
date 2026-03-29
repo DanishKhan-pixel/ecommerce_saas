@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Background rounded square -->
+  <rect width="64" height="64" rx="14" ry="14" fill="#6C3DFF"/>
+
+  <!-- Shopping bag body -->
+  <path d="M18 26h28l-4 22H22L18 26z" fill="#fff" opacity="0.95"/>
+
+  <!-- Bag handle -->
+  <path d="M24 26c0-4.4 3.6-8 8-8s8 3.6 8 8" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round"/>
+
+  <!-- Dollar sign / sparkle dot -->
+  <circle cx="32" cy="37" r="4" fill="#6C3DFF"/>
+  <text x="32" y="41" text-anchor="middle" font-size="7" font-family="Arial,sans-serif" font-weight="bold" fill="#fff">$</text>
+</svg>
