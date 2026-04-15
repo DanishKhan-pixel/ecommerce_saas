@@ -11,6 +11,26 @@ export interface Address {
 }
 
 export const addresses: Address[] = [
-  { id: "1", userId: "u1", name: "Sarah Miller", street: "123 Oak Avenue", city: "Portland", state: "OR", zip: "97201", country: "US", isDefault: true },
-  { id: "2", userId: "u1", name: "Sarah Miller", street: "456 Work Street, Suite 200", city: "Portland", state: "OR", zip: "97204", country: "US", isDefault: false },
+  {
+    id: "1",
+    userId: "u1",
+    name: "Dansh ",
+    street: "123 ",
+    city: "  pakistan",
+    state: "OR",
+    zip: "97201",
+    country: "pak",
+    isDefault: true,
+  },
+  {
+    id: "2",
+    userId: "u1",
+    name: "Sarah",
+    street: "456 Work Street, Suite 200",
+    city: "pakistan",
+    state: "OR",
+    zip: "97204",
+    country: "pak",
+    isDefault: false,
+  },
 ];
