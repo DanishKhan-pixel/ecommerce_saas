@@ -125,7 +125,6 @@ Base frontend integration on the real backend implementation, not assumptions.
 
 If backend structure is unclear, infer carefully from the actual code and keep integration minimal and safe.
 
----
 
 # File Modification Rule
 
