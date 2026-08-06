@@ -58,8 +58,6 @@ But:
 
 All actual code changes should happen in the **frontend** codebase unless the prompt explicitly says otherwise.
 
----
-
 # UI Preservation Rule
 
 The UI was already generated and should be preserved.
