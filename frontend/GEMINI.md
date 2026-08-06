@@ -1,5 +1,3 @@
-# GEMINI.md
-
 ## Project Context
 
 This directory contains the frontend for a **minimalistic multi-vendor ecommerce platform**.
