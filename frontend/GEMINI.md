@@ -11,6 +11,8 @@ Frontend stack:
 - Tailwind CSS
 - shadcn/ui
 
+
+
 The frontend UI has already been generated and should be preserved.
 
 The backend exists in the sibling `../backend` directory.
