@@ -443,15 +443,3 @@ If backend code reveals that the frontend assumptions are wrong:
 - do not rewrite large parts of the UI unless absolutely necessary
 
 Prefer minimal, safe corrections.
-
----
-
-# Response Style
-
-When implementing a task:
-
-- focus on the exact requested feature
-- make only necessary frontend changes
-- keep explanations concise if needed
-- avoid unrelated improvements
-- do not perform broad redesigns
