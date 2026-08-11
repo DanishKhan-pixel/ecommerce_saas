@@ -410,7 +410,6 @@ If the prompt says “integrate cart only,” then only integrate cart.
 
 Do not combine unrelated work.
 
----
 
 # Quality Standard
 
