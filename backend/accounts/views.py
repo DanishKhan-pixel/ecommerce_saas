@@ -61,7 +61,6 @@ def login(request):
         "refresh": str(refresh)
     }, status=status.HTTP_200_OK)
 
-
 @api_view(['GET'])
 @permission_classes([IsAuthenticated])
 def me(request):
