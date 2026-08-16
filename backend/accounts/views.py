@@ -70,7 +70,6 @@ def me(request):
     serializer = UserSerializer(request.user)
     return Response(serializer.data, status=status.HTTP_200_OK)
 
-
 from .permissions import IsAdminUser
 from django.db.models import Sum, Count
 from django.db import models
