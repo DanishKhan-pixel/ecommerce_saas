@@ -2,7 +2,6 @@
 
 Welcome to the **Multi-Vendor eCommerce Platform**! This guide explains all the features available on the website and provides a step-by-step walkthrough for both **Customers** and **Vendors**.
 
----
 
 ## 🌟 Overview of Features
 
