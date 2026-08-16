@@ -4,7 +4,6 @@ Welcome to the **Multi-Vendor eCommerce Platform**! This guide explains all the 
 
 ---
 
-## 🌟 Overview of Features
 
 The platform acts as a marketplace where multiple independent vendors can list their products, and customers can browse, add to cart, and purchase items seamlessly.
 
