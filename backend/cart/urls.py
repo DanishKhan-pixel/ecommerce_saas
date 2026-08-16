@@ -10,4 +10,6 @@ urlpatterns = [
     path('merge/', views.merge_cart, name='merge_cart'),
     path('checkout/', views.checkout, name='checkout'),
     path('checkout/success/', views.checkout_success, name='checkout_success'),
+    path('checkout/failed/', views.checkout_failed, name='checkout_failed'),
+    path('checkout/pending/', views.checkout_pending, name='checkout_pending'),
 ]
