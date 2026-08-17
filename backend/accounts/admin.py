@@ -41,3 +41,4 @@ class ShippingAddressAdmin(admin.ModelAdmin):
     list_display = ('full_name', 'user', 'city', 'country', 'is_default')
     list_filter = ('is_default', 'country')
     search_fields = ('full_name', 'city')
+    list_per_page = 10
