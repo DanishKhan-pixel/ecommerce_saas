@@ -24,10 +24,6 @@ class CartItem(models.Model):
     def __str__(self):
         return f"{self.quantity} x {self.product.name}"
 
-    def get_subtotal(self):
-        return self.product.price * self.quantity
-
-
 class Coupon(models.Model):
     code = models.CharField(max_length=255, unique=True)
     discount = models.DecimalField(max_digits=10, decimal_places=2)
